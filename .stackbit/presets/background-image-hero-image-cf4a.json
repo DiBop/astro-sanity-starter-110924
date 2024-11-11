@@ -1,0 +1,24 @@
+{
+    "model": "backgroundImage",
+    "srcType": "sanity",
+    "srcProjectId": "z7cqefmq:production",
+    "presets": [
+        {
+            "label": "Hero Image",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Hero"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "image": {
+                    "$$ref": "image-ad2949807a385f86231fe318b780cba2179c3f76-1600x900-jpg",
+                    "$$type": "__asset_model"
+                },
+                "opacity": 40
+            }
+        }
+    ]
+}
